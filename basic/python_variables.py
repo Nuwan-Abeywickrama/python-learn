@@ -111,3 +111,7 @@ Fast lookups via keys, commonly used for mapping data.
 student = {"name": "Alice", "age": 21}
 student['age'] = 26  # Updates the value for 'age'
 
+
+"""
+READ MORE : https://nuwan-abeywickrama.medium.com/python-basic-understanding-variables-and-data-types-b7fb5d2036bb
+"""
