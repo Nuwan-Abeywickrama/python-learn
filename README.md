@@ -10,6 +10,6 @@ In this topic includes fundamental of python.
 3. [x] Operators.
 4. [x] Conditionals.
 5. [x] Loops.
-6. [ ] Functions.
+6. [x] Functions.
 7. [ ] File Handling.
 8. [ ] Exception Handling.
